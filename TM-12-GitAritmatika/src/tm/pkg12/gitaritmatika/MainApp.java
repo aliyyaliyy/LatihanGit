@@ -8,7 +8,7 @@ package tm.pkg12.gitaritmatika;
  *
  * @author MyBook Z Series
  */
-public class TM12GitAritmatika {
+public class MainApp {
 
     /**
      * @param args the command line arguments
